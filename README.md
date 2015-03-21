@@ -4,7 +4,8 @@ a user profile via Github auth to synchronize Atom's settings across multiple ma
 
 ![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
 
-Rough roadmap:
+##Rough roadmap:
+
 0.1 packages synchronization and config.cson
 
 0.2 keymap
