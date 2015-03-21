@@ -1,0 +1,13 @@
+{
+  "name": "atom-profile",
+  "main": "./lib/atom-profile",
+  "version": "0.0.0",
+  "description": "export/import your Atom user settings to a backend and share them between machines",
+  "repository": "https://github.com/atom/atom-profile",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.187.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

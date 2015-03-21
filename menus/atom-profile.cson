@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle atom-profile'
+      'command': 'atom-profile:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'atom-profile'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'atom-profile:toggle'
+        }
+      ]
+    ]
+  }
+]
