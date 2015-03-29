@@ -8,6 +8,9 @@
   "engines": {
     "atom": ">=0.187.0 <2.0.0"
   },
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.1"
   }
 }
